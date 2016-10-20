@@ -1,0 +1,2 @@
+# fiscaliza-o_av2
+Sua equipe venceu uma licitação com o governo municipal de XXXX e desenvolverá o sistema de fiscalização do órgão de defesa do consumidor.   Continuação do software ASP.NET MVC 5 desenvolvido na Avaliação 01. Na Avaliação 01, foi modelada a classe Produto. Na Avaliação 02, serão modeladas as classes Processo, Fornecedor e Auto de Infração, conforme modelo de classes acima Utilize arquitetura DDD, como na avaliação 01.  Verifique os requisitos em anexo.
